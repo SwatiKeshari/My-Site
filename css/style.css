@@ -1,0 +1,113 @@
+body{
+  margin: 0;
+  text-align:center;
+  font-family: 'Merriweather', serif;
+  font-size: 0.9rem;
+  background-color: #dbe2ef;
+}
+h1{
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #66bfbf;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  color: #66bfbf;
+  font-weight: normal;
+  line-height: 2;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999e;
+  text-align: left;
+}
+
+a:hover{
+  color: #eaf6f6;
+}
+.bottom-cloud{
+  position: absolute;
+  top: 150px;
+}
+.bottom-section{
+  background-color: #66bfbf;
+  padding: 50px 0 20px;
+}
+.button{
+  background-color: #3ca59d;
+  border-radius: 12px;
+  color: white;
+  font-size: 16px;
+  padding: 15px 32px;
+  line-height: 8;
+  text-decoration: none;
+}
+ .circular{
+  border-radius: 100%;
+  height: 150px;
+}
+
+.copy-right{
+  color: #eaf6f6;
+  font-size: 0.75rem;
+}
+.footer-link{
+  color: #11999e;
+  line-height: 4;
+  font-family: Montserrat, sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+.girl-img{
+  width: 25%;
+  float: left;
+}
+.hobbies{
+  width: 50%;
+  margin: 0 auto 100px auto;
+  text-align: center;
+  line-height: 2;
+}
+.hobbies-desc{
+  text-align: left;
+}
+.line{
+  border-style: none;
+  border-top-style:dotted;
+  border-color: white;
+  border-width:4px;
+  width: 5%;
+}
+.para{
+  text-align: center;
+  margin-left: 450px;
+  width: 30%;
+}
+.skills{
+   width: 50%;
+   margin: 50px auto 0 auto;
+   text-align: center;
+   line-height: 2;
+}
+.skills-desc{
+  text-align: left;
+}
+.swati{
+  text-decoration: underline;
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top:50px;
+}
+.top-section{
+  background-color: #ccf0e1;
+  position: relative;
+  padding-top: 100px;
+}
+.woman-img{
+  width: 20%;
+  float: right;
+}
